@@ -1,0 +1,16 @@
+11 low-poly Prefabs best quality;
+
+bag 1088 tris
+barrel 528 tris
+box_01 156 tris
+box_02 464 tris
+jar 418 tris
+lantern 1732 tris
+mug 558 tris
+pail 490 tris
+plate 240 tris
+stool 156 tris
+table 318 tris
+
+Dust particle system for lantern;
+Textures for PC and Mobile.

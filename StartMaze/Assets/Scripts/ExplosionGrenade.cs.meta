@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c32b7845dd59b9a47b747f4ceab1b518
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fireEffect: {instanceID: 0}
+  - fireEffect2: {fileID: 100002, guid: 2acf9c8e812eff6459715d2b3dce2c96, type: 2}
+  - rabbit: {instanceID: 0}
+  - explodeGrenade: {fileID: 8300000, guid: c2f5fd096553a60418b29a8e7a8bd1a8, type: 3}
+  - cube: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

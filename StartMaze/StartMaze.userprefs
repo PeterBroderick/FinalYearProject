@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PauseMenu.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FirstPersonController.cs" Line="23" Column="38" />
+      <File FileName="Assets\Scripts\PauseMenu.cs" Line="102" Column="4" />
+      <File FileName="Assets\ViewMap.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: cd5dda9ee88fa414481802f85fa21716
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - myskin: {instanceID: 0}
+  - textureToDisplay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

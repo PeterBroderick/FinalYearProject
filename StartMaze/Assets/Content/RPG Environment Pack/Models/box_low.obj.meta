@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 5bc288c25c84cc240b17018ddf3f1661
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: full_low:Yashik2_full_low:polySurface442 polySurface61
+    100004: full_low:Yashik2_full_low:polySurface443 polySurface61
+    100006: full_low:Yashik2_full_low:polySurface444 polySurface61
+    100008: full_low:Yashik2_full_low:polySurface445 polySurface61
+    100010: polySurface61
+    100012: default
+    100014: box_low:Mesh
+    400000: //RootNode
+    400002: full_low:Yashik2_full_low:polySurface442 polySurface61
+    400004: full_low:Yashik2_full_low:polySurface443 polySurface61
+    400006: full_low:Yashik2_full_low:polySurface444 polySurface61
+    400008: full_low:Yashik2_full_low:polySurface445 polySurface61
+    400010: polySurface61
+    400012: default
+    400014: box_low:Mesh
+    2300000: full_low:Yashik2_full_low:polySurface442 polySurface61
+    2300002: full_low:Yashik2_full_low:polySurface443 polySurface61
+    2300004: full_low:Yashik2_full_low:polySurface444 polySurface61
+    2300006: full_low:Yashik2_full_low:polySurface445 polySurface61
+    2300008: polySurface61
+    2300010: default
+    2300012: box_low:Mesh
+    3300000: full_low:Yashik2_full_low:polySurface442 polySurface61
+    3300002: full_low:Yashik2_full_low:polySurface443 polySurface61
+    3300004: full_low:Yashik2_full_low:polySurface444 polySurface61
+    3300006: full_low:Yashik2_full_low:polySurface445 polySurface61
+    3300008: polySurface61
+    3300010: default
+    3300012: box_low:Mesh
+    4300000: full_low:Yashik2_full_low:polySurface442 polySurface61
+    4300002: full_low:Yashik2_full_low:polySurface443 polySurface61
+    4300004: full_low:Yashik2_full_low:polySurface444 polySurface61
+    4300006: full_low:Yashik2_full_low:polySurface445 polySurface61
+    4300008: polySurface61
+    4300010: default
+    4300012: box_low:Mesh
+    6400000: full_low:Yashik2_full_low:polySurface442 polySurface61
+    6400002: full_low:Yashik2_full_low:polySurface443 polySurface61
+    6400004: full_low:Yashik2_full_low:polySurface444 polySurface61
+    6400006: full_low:Yashik2_full_low:polySurface445 polySurface61
+    6400008: polySurface61
+    6400010: default
+    6400012: box_low:Mesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

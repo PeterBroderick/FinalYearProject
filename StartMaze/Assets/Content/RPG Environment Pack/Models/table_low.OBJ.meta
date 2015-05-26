@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: a881a0c42e0eaa44fb2542b83f140c09
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: full_low2:pCube1_full_low2:polySurface1
+    100004: full_low2:pCube2_full_low2:polySurface1
+    100006: full_low2:pCube3_full_low2:polySurface1
+    100008: full_low2:pCube4_full_low2:polySurface1
+    100010: full_low2:polySurface1
+    100012: full_low2:polySurface10_full_low2:polySurface15 full_low2:polySurface1
+    100014: full_low2:polySurface11_full_low2:polySurface12 full_low2:polySurface15
+      full_low2:polySurface1
+    100016: full_low2:polySurface11_full_low2:polySurface13 full_low2:polySurface15
+      full_low2:polySurface1
+    100018: full_low2:polySurface11_full_low2:polySurface14 full_low2:polySurface15
+      full_low2:polySurface1
+    100020: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface17
+      full_low2:polySurface1
+    100022: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface18
+      full_low2:polySurface1
+    100024: full_low2:polySurface15_full_low2:polySurface16 full_low2:polySurface1
+    100026: full_low2:polySurface2_full_low2:polySurface15 full_low2:polySurface1
+    100028: full_low2:polySurface3_full_low2:polySurface15 full_low2:polySurface1
+    100030: full_low2:polySurface4_full_low2:polySurface15 full_low2:polySurface1
+    100032: full_low2:polySurface5_full_low2:polySurface15 full_low2:polySurface1
+    100034: full_low2:polySurface6_full_low2:polySurface15 full_low2:polySurface1
+    100036: full_low2:polySurface7_full_low2:polySurface15 full_low2:polySurface1
+    100038: full_low2:polySurface8_full_low2:polySurface15 full_low2:polySurface1
+    100040: full_low2:polySurface9_full_low2:polySurface15 full_low2:polySurface1
+    100042: default
+    100044: table_low:Mesh
+    400000: //RootNode
+    400002: full_low2:pCube1_full_low2:polySurface1
+    400004: full_low2:pCube2_full_low2:polySurface1
+    400006: full_low2:pCube3_full_low2:polySurface1
+    400008: full_low2:pCube4_full_low2:polySurface1
+    400010: full_low2:polySurface1
+    400012: full_low2:polySurface10_full_low2:polySurface15 full_low2:polySurface1
+    400014: full_low2:polySurface11_full_low2:polySurface12 full_low2:polySurface15
+      full_low2:polySurface1
+    400016: full_low2:polySurface11_full_low2:polySurface13 full_low2:polySurface15
+      full_low2:polySurface1
+    400018: full_low2:polySurface11_full_low2:polySurface14 full_low2:polySurface15
+      full_low2:polySurface1
+    400020: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface17
+      full_low2:polySurface1
+    400022: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface18
+      full_low2:polySurface1
+    400024: full_low2:polySurface15_full_low2:polySurface16 full_low2:polySurface1
+    400026: full_low2:polySurface2_full_low2:polySurface15 full_low2:polySurface1
+    400028: full_low2:polySurface3_full_low2:polySurface15 full_low2:polySurface1
+    400030: full_low2:polySurface4_full_low2:polySurface15 full_low2:polySurface1
+    400032: full_low2:polySurface5_full_low2:polySurface15 full_low2:polySurface1
+    400034: full_low2:polySurface6_full_low2:polySurface15 full_low2:polySurface1
+    400036: full_low2:polySurface7_full_low2:polySurface15 full_low2:polySurface1
+    400038: full_low2:polySurface8_full_low2:polySurface15 full_low2:polySurface1
+    400040: full_low2:polySurface9_full_low2:polySurface15 full_low2:polySurface1
+    400042: default
+    400044: table_low:Mesh
+    2300000: full_low2:pCube1_full_low2:polySurface1
+    2300002: full_low2:pCube2_full_low2:polySurface1
+    2300004: full_low2:pCube3_full_low2:polySurface1
+    2300006: full_low2:pCube4_full_low2:polySurface1
+    2300008: full_low2:polySurface1
+    2300010: full_low2:polySurface10_full_low2:polySurface15 full_low2:polySurface1
+    2300012: full_low2:polySurface11_full_low2:polySurface12 full_low2:polySurface15
+      full_low2:polySurface1
+    2300014: full_low2:polySurface11_full_low2:polySurface13 full_low2:polySurface15
+      full_low2:polySurface1
+    2300016: full_low2:polySurface11_full_low2:polySurface14 full_low2:polySurface15
+      full_low2:polySurface1
+    2300018: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface17
+      full_low2:polySurface1
+    2300020: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface18
+      full_low2:polySurface1
+    2300022: full_low2:polySurface15_full_low2:polySurface16 full_low2:polySurface1
+    2300024: full_low2:polySurface2_full_low2:polySurface15 full_low2:polySurface1
+    2300026: full_low2:polySurface3_full_low2:polySurface15 full_low2:polySurface1
+    2300028: full_low2:polySurface4_full_low2:polySurface15 full_low2:polySurface1
+    2300030: full_low2:polySurface5_full_low2:polySurface15 full_low2:polySurface1
+    2300032: full_low2:polySurface6_full_low2:polySurface15 full_low2:polySurface1
+    2300034: full_low2:polySurface7_full_low2:polySurface15 full_low2:polySurface1
+    2300036: full_low2:polySurface8_full_low2:polySurface15 full_low2:polySurface1
+    2300038: full_low2:polySurface9_full_low2:polySurface15 full_low2:polySurface1
+    2300040: default
+    2300042: table_low:Mesh
+    3300000: full_low2:pCube1_full_low2:polySurface1
+    3300002: full_low2:pCube2_full_low2:polySurface1
+    3300004: full_low2:pCube3_full_low2:polySurface1
+    3300006: full_low2:pCube4_full_low2:polySurface1
+    3300008: full_low2:polySurface1
+    3300010: full_low2:polySurface10_full_low2:polySurface15 full_low2:polySurface1
+    3300012: full_low2:polySurface11_full_low2:polySurface12 full_low2:polySurface15
+      full_low2:polySurface1
+    3300014: full_low2:polySurface11_full_low2:polySurface13 full_low2:polySurface15
+      full_low2:polySurface1
+    3300016: full_low2:polySurface11_full_low2:polySurface14 full_low2:polySurface15
+      full_low2:polySurface1
+    3300018: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface17
+      full_low2:polySurface1
+    3300020: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface18
+      full_low2:polySurface1
+    3300022: full_low2:polySurface15_full_low2:polySurface16 full_low2:polySurface1
+    3300024: full_low2:polySurface2_full_low2:polySurface15 full_low2:polySurface1
+    3300026: full_low2:polySurface3_full_low2:polySurface15 full_low2:polySurface1
+    3300028: full_low2:polySurface4_full_low2:polySurface15 full_low2:polySurface1
+    3300030: full_low2:polySurface5_full_low2:polySurface15 full_low2:polySurface1
+    3300032: full_low2:polySurface6_full_low2:polySurface15 full_low2:polySurface1
+    3300034: full_low2:polySurface7_full_low2:polySurface15 full_low2:polySurface1
+    3300036: full_low2:polySurface8_full_low2:polySurface15 full_low2:polySurface1
+    3300038: full_low2:polySurface9_full_low2:polySurface15 full_low2:polySurface1
+    3300040: default
+    3300042: table_low:Mesh
+    4300000: full_low2:pCube1_full_low2:polySurface1
+    4300002: full_low2:pCube2_full_low2:polySurface1
+    4300004: full_low2:pCube3_full_low2:polySurface1
+    4300006: full_low2:pCube4_full_low2:polySurface1
+    4300008: full_low2:polySurface1
+    4300010: full_low2:polySurface10_full_low2:polySurface15 full_low2:polySurface1
+    4300012: full_low2:polySurface11_full_low2:polySurface12 full_low2:polySurface15
+      full_low2:polySurface1
+    4300014: full_low2:polySurface11_full_low2:polySurface13 full_low2:polySurface15
+      full_low2:polySurface1
+    4300016: full_low2:polySurface11_full_low2:polySurface14 full_low2:polySurface15
+      full_low2:polySurface1
+    4300018: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface17
+      full_low2:polySurface1
+    4300020: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface18
+      full_low2:polySurface1
+    4300022: full_low2:polySurface15_full_low2:polySurface16 full_low2:polySurface1
+    4300024: full_low2:polySurface2_full_low2:polySurface15 full_low2:polySurface1
+    4300026: full_low2:polySurface3_full_low2:polySurface15 full_low2:polySurface1
+    4300028: full_low2:polySurface4_full_low2:polySurface15 full_low2:polySurface1
+    4300030: full_low2:polySurface5_full_low2:polySurface15 full_low2:polySurface1
+    4300032: full_low2:polySurface6_full_low2:polySurface15 full_low2:polySurface1
+    4300034: full_low2:polySurface7_full_low2:polySurface15 full_low2:polySurface1
+    4300036: full_low2:polySurface8_full_low2:polySurface15 full_low2:polySurface1
+    4300038: full_low2:polySurface9_full_low2:polySurface15 full_low2:polySurface1
+    4300040: default
+    4300042: table_low:Mesh
+    6400000: full_low2:pCube1_full_low2:polySurface1
+    6400002: full_low2:pCube2_full_low2:polySurface1
+    6400004: full_low2:pCube3_full_low2:polySurface1
+    6400006: full_low2:pCube4_full_low2:polySurface1
+    6400008: full_low2:polySurface1
+    6400010: full_low2:polySurface10_full_low2:polySurface15 full_low2:polySurface1
+    6400012: full_low2:polySurface11_full_low2:polySurface12 full_low2:polySurface15
+      full_low2:polySurface1
+    6400014: full_low2:polySurface11_full_low2:polySurface13 full_low2:polySurface15
+      full_low2:polySurface1
+    6400016: full_low2:polySurface11_full_low2:polySurface14 full_low2:polySurface15
+      full_low2:polySurface1
+    6400018: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface17
+      full_low2:polySurface1
+    6400020: full_low2:polySurface11_full_low2:polySurface15 full_low2:polySurface18
+      full_low2:polySurface1
+    6400022: full_low2:polySurface15_full_low2:polySurface16 full_low2:polySurface1
+    6400024: full_low2:polySurface2_full_low2:polySurface15 full_low2:polySurface1
+    6400026: full_low2:polySurface3_full_low2:polySurface15 full_low2:polySurface1
+    6400028: full_low2:polySurface4_full_low2:polySurface15 full_low2:polySurface1
+    6400030: full_low2:polySurface5_full_low2:polySurface15 full_low2:polySurface1
+    6400032: full_low2:polySurface6_full_low2:polySurface15 full_low2:polySurface1
+    6400034: full_low2:polySurface7_full_low2:polySurface15 full_low2:polySurface1
+    6400036: full_low2:polySurface8_full_low2:polySurface15 full_low2:polySurface1
+    6400038: full_low2:polySurface9_full_low2:polySurface15 full_low2:polySurface1
+    6400040: default
+    6400042: table_low:Mesh
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
