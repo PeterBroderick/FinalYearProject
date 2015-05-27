@@ -16,7 +16,7 @@ Platform assembly: C:\Users\Peter\Documents\GitHub\FinalYearProject\Runnable Gam
 Loading C:\Users\Peter\Documents\GitHub\FinalYearProject\Runnable Game\The Adventures of Milan_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
 Platform assembly: C:\Users\Peter\Documents\GitHub\FinalYearProject\Runnable Game\The Adventures of Milan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Peter\Documents\GitHub\FinalYearProject\Runnable Game\The Adventures of Milan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.528 seconds
+- Completed reload, in  0.181 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
