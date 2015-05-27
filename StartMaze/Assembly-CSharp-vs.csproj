@@ -54,7 +54,6 @@
      <Compile Include="Assets\Interact.cs" />
      <Compile Include="Assets\KeyRotate.cs" />
      <Compile Include="Assets\MainMenu.cs" />
-     <Compile Include="Assets\OldChest\DemoScene\MouseOrbit.cs" />
      <Compile Include="Assets\Scripts\Aknowlegments.cs" />
      <Compile Include="Assets\Scripts\BlueKeyPickUp.cs" />
      <Compile Include="Assets\Scripts\BookPickup.cs" />

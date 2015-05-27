@@ -19,21 +19,21 @@ public class MainMenu : MonoBehaviour {
 		
 		void OnGUI()
 	{
-		  GUI.Button (new Rect (Screen.width/2 - 50, 150, 100, 50), "The Adventures of Milan", header);
+		  GUI.Button (new Rect (Screen.width/2 - 100, 150, 300, 50), "The Adventures of Milan", header);
 			
-		if(GUI.Button (new Rect (Screen.width/2 - 50,250,100,50), "Start Game", customButton)) {
+		if(GUI.Button (new Rect (Screen.width/2 - 100,250,300,50), "Start Game", customButton)) {
 				
 				StartGame();
 				
 			}
 			
-		if (GUI.Button (new Rect (Screen.width/2 - 50, 350, 100, 50), "Load Credits", customButton3)) {
+		if (GUI.Button (new Rect (Screen.width/2 - 100, 350, 300, 50), "Load Credits", customButton3)) {
 				
 				Credits();//This is actuall quit button
 			}
 			
 			
-		if (GUI.Button (new Rect (Screen.width/2 - 50, 450, 100, 50), "Exit", customButton2)) {
+		if (GUI.Button (new Rect (Screen.width/2 - 100, 450, 300, 50), "Exit", customButton2)) {
 				
 				Exit();//This is actuall quit button
 			}
