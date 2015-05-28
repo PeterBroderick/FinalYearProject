@@ -1,0 +1,22 @@
+WALKTHROUGH.
+
+The escape button can be pressed during the credits or game over screen to return to the main menu.
+If you press escape during the game, it will be paused and you will see options, such as audio, on/off
+and controls. Controls will display all the mouse and keyboard inputs for the game.
+
+When you come back out of the menu you need to right click to remove the mouse.
+
+Step by Step.
+You start the game in the courtyard, walk to your left to talk to the mage. Press 'E' to 
+talk to him and he'll tell you his brother went through the blue door. Jump on the barrels next 
+to the wall to get onto the roof of the shack and then jump onto the plank to get to the blue
+key. This will grant you access to the blue boor. Once inside this room keep to the right and you will 
+eventually find the red key. Left click to shoot any enemies along the way. Once you get the key
+head back the way you came, but go the opposite direction to when you entered. This will bring you
+to a red door which you have the key for. Inside you will need to kill the boss and pick the book
+up that he drops. We then need to return this to the dead mage's brother that we spoke to earlier.
+Also, Just outside this room there is a map that you can use to escape the maze. Once you talk 
+to the brother and show him his brother's book he will realise he's dead and give you the green key. 
+This allows you to open the last door and go into the maze. Go slowly because there are spike traps
+in the maze that take 50hp. The easiest way out of the maze is to stay to the right. Once you are
+out the game will end and the credits will play. Press escape to get back to the menu.
